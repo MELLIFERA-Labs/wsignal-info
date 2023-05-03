@@ -54,5 +54,5 @@ You will receive notifications about new proposals in the telegram chat with but
 <img src="./screens/vote_in_telegram.png" width="70%">
 
 ### Enjoy!
-That's all! If you have any questions, please contact us in the telegram chat https://t.me/wsignalbetachat
+That's all! If you have any questions, please contact us in the telegram group https://t.me/wsignalbetachat
 
