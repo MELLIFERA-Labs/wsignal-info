@@ -1,8 +1,7 @@
 
 # W!Signal tutorial
 
-W!Signal is an app that let you connect a messenger to app to receive proposal notifications in your messenger and vote by permission without transaction fees ***directly*** in the chat.
-
+W!Signal is an app (developed by MELLIFERA team) that let you connect a messenger to app to receive proposal notifications in your messenger and vote by permission without transaction fees ***directly*** in the chat.
 We support the following messengers:
 - Telegram
 
